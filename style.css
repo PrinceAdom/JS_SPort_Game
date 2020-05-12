@@ -1,0 +1,27 @@
+body {
+    width: 60%;
+    margin: 5% auto;
+}
+
+.hide {
+    display: none;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.clear {
+    clear: both;
+}
+#reset-container, h1 {
+    text-align: center;
+}
+
+.display_winner {
+    width: 60%;
+    margin: 5% auto;
+    text-align: center;
+    padding: 0;
+}
